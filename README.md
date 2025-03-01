@@ -16,7 +16,9 @@ TinDog is a responsive website built using **Bootstrap 5**, designed to help dog
 ✅ Interactive buttons and navigation 🔗  
 
 ## 🚀 Live Demo
-🔗 **[View TinDog](https://kawther27.github.io/TinDog/)**
+🔗 **[View TinDog](https://bootstrap-designs.github.io/tinDog/)**
+
+
 
 ## 📦 Installation
 1. Clone the repository:
